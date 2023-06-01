@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-I'm Ugur. I develop custom web applications with PHP 8, mySQL, noSQL, MongoDB, HTML, CSS, JavaScript.
+I'm Ugur.
+
+PHP 8, mySQL, PostgreSQL, noSQL, MongoDB, HTML, CSS, JavaScript. I develop custom software.
 
 📫 utasar@icloud.com
